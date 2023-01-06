@@ -1,4 +1,4 @@
-# LaTeX-cheat-sheet
+# LaTeX Cheat Sheet
 ```
 % Document will be printed on a4 paper, using the 12pt default font
 % Define that we want to use the report class template
